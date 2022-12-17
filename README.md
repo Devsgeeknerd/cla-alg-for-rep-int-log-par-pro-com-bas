@@ -25,7 +25,7 @@ Mas, assim como na rotina de uma pessoa, as situações nem sempre são perfeita
 
 Agora, veja o algoritmo **“Ligação”**, no qual existem algumas condições:
 
-![Ligação](https://d2v0x26thbzlwf.cloudfront.net/prod/14/img/rId7bcm2txmb.1an.gif)
+![Algoritmo Ligação](https://d2v0x26thbzlwf.cloudfront.net/prod/14/img/rId7bcm2txmb.1an.gif)
 
 Podemos afirmar que este algoritmo é mais “completo” que o algoritmo **“Trajeto_Casa_Trabalho”**, pois contempla inclusive situações de erro - caso o telefone dê ou não dê sinal.
 
