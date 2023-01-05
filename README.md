@@ -11,7 +11,7 @@ Outro exemplo seria o manual de um aparelho eletrônico, como o de um gravador d
 
 Veja outro exemplo:
 
-![Trajeto Casa Trabalho](https://d2v0x26thbzlwf.cloudfront.net/prod/14/img/rId690xlccln.1eb.png){:height="200px" width="400px"}
+![Trajeto Casa Trabalho](https://d2v0x26thbzlwf.cloudfront.net/prod/14/img/rId690xlccln.1eb.png)
 
 O algoritmo acima foi resolvido em 9 passos. Todavia, se for solicitado a outra pessoa para resolvê-lo, provavelmente a resposta será diferente, pois cada um abstrai um problema por ângulos diferentes, com maior ou menor riqueza de detalhes.
 
