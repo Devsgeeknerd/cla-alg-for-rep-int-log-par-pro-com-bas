@@ -1,3 +1,4 @@
+
 <!-- Título -->
 # Algoritmos e Formas de Representação
 
@@ -5,15 +6,17 @@
 
 Um algoritmo é formalmente uma sequência finita de passos que levam à execução de uma tarefa.
 
-Um exemplo de algoritmo é cada uma das operações básicas (adição, multiplicação, divisão e subtração).
+Um exemplo de algoritmo é cada uma das operações básicas (`adição`, `multiplicação`, `divisão` e `subtração`).
 
 Outro exemplo seria o manual de um aparelho eletrônico, como o de um gravador de DVD, que explica passo a passo como realizar uma gravação.
 
 Veja outro exemplo:
 
-![Trajeto Casa Trabalho](https://d2v0x26thbzlwf.cloudfront.net/prod/14/img/rId690xlccln.1eb.png)
+![Trajeto_Casa_Trabalho](https://d2v0x26thbzlwf.cloudfront.net/prod/14/img/rId690xlccln.1eb.png "Trajeto de casa para o trabalho")
 
-O algoritmo acima foi resolvido em 9 passos. Todavia, se for solicitado a outra pessoa para resolvê-lo, provavelmente a resposta será diferente, pois cada um abstrai um problema por ângulos diferentes, com maior ou menor riqueza de detalhes.
+O algoritmo acima foi resolvido em 9 passos.
+
+Todavia, se for solicitado a outra pessoa para resolvê-lo, provavelmente a resposta será diferente, pois cada um abstrai um problema por ângulos diferentes, com maior ou menor riqueza de detalhes.
 
 Por outro lado, é possível perceber que o algoritmo descrito revela uma situação perfeita, sem condicionais, sem exceções (veja que não foi previsto pegar o ônibus errado, ou o pneu furar).
 
@@ -21,7 +24,7 @@ Mas, assim como na rotina de uma pessoa, as situações nem sempre são perfeita
 
 Agora, veja o algoritmo **“Ligação”**, no qual existem algumas condições:
 
-![Ligação](https://d2v0x26thbzlwf.cloudfront.net/prod/14/img/rId7bcm2txmb.1an.gif)
+![Ligação](https://d2v0x26thbzlwf.cloudfront.net/prod/14/img/rId7bcm2txmb.1an.gif "Ligação telefônica")
 
 Podemos afirmar que este algoritmo é mais **“completo”** que o algoritmo **“Trajeto_Casa_Trabalho”**, pois contempla inclusive situações de erro – caso o telefone dê ou não dê sinal.
 
@@ -33,12 +36,10 @@ Este tipo de notação é que chamamos de **pseudocódigo**.
 
 Temos várias formas de representar um pseudocódigo.
 
-Podemos dividir estas formas nas categorias a seguir.
-
 <!-- Informações -->
 ## &#8505; Informações
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcla-alg-for-rep-int-log-par-pro-com-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcla-alg-for-rep-int-log-par-pro-com-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitante")
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
 &nbsp;
